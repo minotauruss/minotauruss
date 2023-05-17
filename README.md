@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minotauruss
-- 👀 I’m interested in Dart/flutter ---> also python and react.js, vue.js
+- 👀 I’m interested in java spring boot - Dart/flutter ---> also python and react.js, vue.js
 - 🌱 I’m currently developing flutter 
 
 
